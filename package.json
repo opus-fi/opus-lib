@@ -1,6 +1,6 @@
 {
   "name": "@opus-fi/lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "📖 Solidity libraries that are shared across Opus contracts",
   "files": [
     "contracts",
